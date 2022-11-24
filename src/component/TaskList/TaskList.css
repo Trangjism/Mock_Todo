@@ -1,0 +1,9 @@
+.task-list {
+    display: flex;
+    align-items: center;
+    justify-content:space-between
+}
+
+.task-list p {
+    flex: 1;
+}
